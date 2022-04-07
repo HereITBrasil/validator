@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s2way/validator.git"
+    "url": "https://github.com/HereITBrasil/validator.git"
   },
   "keywords": [
     "query builder",
     "mysql"
   ],
-  "author": "Newborns/S2Way",
+  "author": "HereITBrasil",
   "bugs": {
-    "url": "https://github.com/s2way/validator/issues"
+    "url": "https://github.com/HereITBrasil/validator/issues"
   },
-  "homepage": "https://github.com/s2way/validator",
+  "homepage": "https://github.com/HereITBrasil/validator",
   "devDependencies": {
     "coffee-script": "latest",
     "coffeelint": "^1.9.4",
@@ -29,7 +29,7 @@
   "dependencies": {
     "moment": "^2.14.1",
     "underscore": "^1.8.3",
-    "exceptions": "https://github.com/rodolforios/Exception.git",
-    "rules": "https://github.com/rodolforios/Rules.git"
+    "exceptions": "https://github.com/HereITBrasil/Exception.git",
+    "rules": "https://github.com/HereITBrasil/Rules.git"
   }
 }
